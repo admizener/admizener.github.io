@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Alan_Mizener.jpeg"
   name             : "Alan Mizener"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "I am an MD/PhD student at West Virginia University studying cancer cell biology. I aspire to become a surgical oncologist and physician scientist."
   location         : "Morgantown, WV"
   employer         : "West Virginia University"
