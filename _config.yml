@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alan Mizener's Personal Website"
+title                    : "Alan Mizener"
 title_separator          : "-"
 name                     : &name "Alan Mizener"
 description              : &description "MD/PhD Student at West Virginia University"
@@ -24,7 +24,7 @@ author:
   avatar           : "Alan_Mizener.jpeg"
   name             : "Alan Mizener"
   pronouns         : #"he/him"  
-  bio              : "I am an MD/PhD student at West Virginia University studying cancer cell biology. I aspire to become a surgical oncologist and physician scientist."
+  bio              : "MD/PhD Student at West Virginia University\nResearch Interests: Cancer Cell Biology, Bioinformatics"
   location         : "Morgantown, WV"
   employer         : "West Virginia University"
   uri              : # URL
