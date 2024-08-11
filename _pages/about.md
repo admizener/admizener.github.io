@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alan Mizener's Personal Website"
+title: "Alan Mizener"
 author_profile: true
 redirect_from: 
   - /about/
