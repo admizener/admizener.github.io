@@ -9,7 +9,7 @@ redirect_from:
 
 **Hello! My name is Alan Mizener, and I am an MD/PhD student at West Virginia University.**
 
-I am currently hard at work on my PhD in Cancer Cell Biology, where my research explores the intricate mechanisms behind and potential treatments for breast cancer-induced skeletal muscle fatigue. In our lab, we’re excited to be running a Phase 2 clinical trial testing whether pioglitazone, a commonly used diabetes drug, can help alleviate fatigue in breast cancer patients. If you’re curious to learn more, check out our clinical trial on ClinicalTrials.gov.
+I am currently hard at work on my PhD in Cancer Cell Biology, where my research explores the intricate mechanisms behind and potential treatments for breast cancer-induced skeletal muscle fatigue. In our lab, we’re excited to be running a Phase 2 clinical trial testing whether pioglitazone, a commonly used diabetes drug, can help alleviate fatigue in breast cancer patients. If you want to learn more, check out our clinical trial on ClinicalTrials.gov.
 
 I strive to become a surgical oncologist and physician scientist. My goal is to harness the latest molecular and analytical techniques to push the boundaries of oncology care and improve outcomes for *all* patients. I’m committed to advancing our understanding of cancer and finding innovative ways to enhance patient care.
 
