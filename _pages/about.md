@@ -7,8 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Alan Mizener, and I am an MD/PhD student at West Virginia University.
+**Hello! My name is Alan Mizener, and I am an MD/PhD student at West Virginia University.**
 
-I am currently working on my PhD in Cancer Cell Biology. My research focuses on mechanisms and treatments for breast cancer induced skeletal muscle fatigue. My lab is currently running a phase 2 clinical trial invetigating the use of the diabetes drug, pioglitazone, as a treatment for fatigue in breast cancer patients. You can read more about our clinical trial on [ClinicalTrials.gov](https://www.clinicaltrials.gov/study/NCT05013255?cond=Breast%20Cancer&intr=Pioglitazone&rank=1).
+I am currently hard at work on my PhD in Cancer Cell Biology, where my research explores the intricate mechanisms behind and potential treatments for breast cancer-induced skeletal muscle fatigue. In our lab, we’re excited to be running a Phase 2 clinical trial testing whether pioglitazone, a commonly used diabetes drug, can help alleviate fatigue in breast cancer patients. If you’re curious to learn more, check out our clinical trial on ClinicalTrials.gov.
 
-My ultimate career goal is to become a surgical oncologist and physician scientist. I am dedicated to levaraging cutting-edge molecular and analytical techniques to advancing oncology care for all patients.
+I strive to become a surgical oncologist and physician scientist. My goal is to harness the latest molecular and analytical techniques to push the boundaries of oncology care and improve outcomes for *all* patients. I’m committed to advancing our understanding of cancer and finding innovative ways to enhance patient care.
+
+---
+
+**Fun things about me!**
+
+- I'm an avid outdoorsman and enjoy exploring the Mountain State whenever I get the chance.
+- I love all things tech and frequently spend my free time programming, building computers, or playing video games.
+- Most of all, I find joy in learning new things and pick up lots of hobbies as a result!
+
+---
+
+Feel free to reach out if you’re interested in learning more about my work or if you share similar interests and hobbies!
