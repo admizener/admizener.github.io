@@ -1,7 +1,9 @@
 .page__footer {
   width: 100%;
   margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  position: absolute;
+  bottom: 0em;
+  color: $accent-color;
   background-color: $lighter-gray;
   border-top: 1px solid $light-gray;
 
@@ -26,5 +28,5 @@ footer {
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-  text-align: center; /* Center text */
+  text-align: left;
 }
