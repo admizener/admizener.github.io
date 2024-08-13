@@ -42,13 +42,15 @@
   }
 
   h3, h4 {
-    font-size: $type-size-5;
+     font-size: $type-size-5;
+     color: $accent-color;
   }
 
   p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
-    line-height: 1.5;
+     font-family: $sans-serif;
+     font-size: $type-size-6;
+     line-height: 1.5;
+     color: $accent-color;
   }
 
   img {
@@ -79,7 +81,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 72px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -90,8 +92,8 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 250px;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
