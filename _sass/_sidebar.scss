@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  margin-top: 3em;
 
   @media screen and (min-width: $sidebar-screen-min-width) {
     height: 100vh;
@@ -59,7 +60,6 @@
 
 .sidebar__right {
   margin-bottom: 1em;
-  margin-top: 3em;
 
   @include breakpoint($large) {
     position: relative;
