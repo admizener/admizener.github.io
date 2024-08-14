@@ -34,7 +34,7 @@
     max-width: $sidebar-link-max-width;
   }
 
-   @include breakpoint($medium-wide) {
+   @media (max-width: $medium-wide) {
       margin-top: 3em;
    }
 
