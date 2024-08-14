@@ -52,7 +52,7 @@
 
   &--lg {
      @include breakpoint($medium-wide) {
-           margin-right: 44vw;
+           padding-right: 44vw;
      }
   }
 }
