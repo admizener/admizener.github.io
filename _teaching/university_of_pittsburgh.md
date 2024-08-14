@@ -11,11 +11,11 @@ I attended the University of Pittsburgh in Pittsburgh, PA, as an undergraduate s
 
 Honors
 ======
-2020       *Summa Cum Laude* (4.0 GPA)
-2020       Biology Departmental Honors
-2018       Most Outstanding Undergraduate Statistics Student
-2017-2020  Academic Merit Scholarship
-2017-2020  Dean's List
+- *Summa Cum Laude* (4.0 GPA), 2020
+- Biology Departmental Honors, 2020
+- Most Outstanding Undergraduate Statistics Student, 2018
+- Academic Merit Scholarship, 2017-2020
+- Dean's List, 2017-2020
 
 Heading 2
 ======
