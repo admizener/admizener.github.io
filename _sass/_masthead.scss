@@ -52,10 +52,10 @@
 
   &--lg {
      @include breakpoint($x-large) {
-           padding-right: 42vw;
+           padding-right: 40vw;
      }
 
-     @media (max-width: $large) {
+     @media (max-width: $x-large) {
            padding-right: 20vw;
      }
   }
