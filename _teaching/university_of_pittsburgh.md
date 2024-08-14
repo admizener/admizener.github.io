@@ -11,6 +11,8 @@ I attended the University of Pittsburgh in Pittsburgh, PA, as an undergraduate s
 
 Honors
 ======
+
+
 | Year       | Honor                                             |
 |------------|---------------------------------------------------|
 | 2020       | *Summa Cum Laude (4.0 GPA)*                       |
@@ -22,6 +24,8 @@ Honors
 
 Coursework
 ======
+
+
 | Year | Course                                    | Grade |
 |------|-------------------------------------------|-------|
 | 2020 | Twentieth Century Europe                  | A+    |
