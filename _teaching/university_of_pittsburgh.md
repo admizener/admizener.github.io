@@ -3,6 +3,7 @@ title: "University of Pittsburgh"
 collection: teaching
 type: "Bachelor of Science in Molecular Biology"
 permalink: /teaching/university_of_pittsburgh
+venue: "Minors in Chemistry & Computer Science"
 date: 2020-08-08
 ---
 
