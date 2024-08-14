@@ -51,6 +51,8 @@
   white-space: nowrap;
 
   &--lg {
-     margin-right: 50%;
+     @include breakpoint($medium-wide) {
+           margin-right: 44vw;
+     }
   }
 }
