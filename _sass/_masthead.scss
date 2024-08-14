@@ -55,7 +55,7 @@
            padding-right: 42vw;
      }
 
-     @include breakpoint($large) {
+     @media (max-width: $large) {
            padding-right: 20vw;
      }
   }
