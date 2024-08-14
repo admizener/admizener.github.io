@@ -31,14 +31,14 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-4;
+    font-size: $type-size-6;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
     }
 
     @include breakpoint($x-large) {
-      @include prefix(1 of 12);
+      @include prefix(0.5 of 12);
     }
   }
 
@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: #002855;
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: #002855;
+        background: $primary-color;
       }
 
       &.disabled {
@@ -175,15 +175,13 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $accent-color;
-  display:flex;
-  justify-content: right;
+  background: $background-color;
 
   a {
+    display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
-    font-size: x-large;
     text-decoration: none;
 
     &:hover {
@@ -261,7 +259,7 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: $accent-color;
+    background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -386,7 +384,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $accent-color;
+    background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
