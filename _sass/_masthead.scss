@@ -51,8 +51,12 @@
   white-space: nowrap;
 
   &--lg {
-     @include breakpoint($large) {
+     @include breakpoint($x-large) {
            padding-right: 42vw;
+     }
+
+     @include breakpoint($large) {
+           padding-right: 20vw;
      }
   }
 }
