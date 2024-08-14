@@ -1,5 +1,5 @@
 ---
-title: "[University of Pittsburgh](https://www.pitt.edu)"
+title: "University of Pittsburgh"
 collection: teaching
 type: "Bachelor of Science in Molecular Biology"
 permalink: /teaching/university_of_pittsburgh
@@ -7,7 +7,7 @@ venue: "Minors in Chemistry & Computer Science"
 date: 2020-08-08
 ---
 
-I attended the University of Pittsburgh in Pittsburgh, PA, as an undergraduate student from August 2017 to August 2020. I majored in Molecular Biology and minored in Chemistry and Computer Science. I graduated *summa cum laude* with a 4.0 GPA. I have included honors that I receievd and coursework that I completed during my time at the University of Pittsburgh below.
+I attended the [University of Pittsburgh](https://www.pitt.edu) in Pittsburgh, PA, as an undergraduate student from August 2017 to August 2020. I majored in Molecular Biology and minored in Chemistry and Computer Science. I graduated *summa cum laude* with a 4.0 GPA. I have included honors that I receievd and coursework that I completed during my time at the University of Pittsburgh below.
 
 Honors
 ======
